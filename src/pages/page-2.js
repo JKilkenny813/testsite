@@ -8,7 +8,7 @@ const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Welcome to the Labber Security Blog</h1>
-    <p>		<p> J.Kilkenny
+    <p>		<p> J.Kilkenny 4/8/2021 
 
 		<p> In this blog we are to going to attempt to answer a few questions about dApp use
 		for decentralized or autonomous organizations. </p>

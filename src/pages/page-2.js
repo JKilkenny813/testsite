@@ -58,5 +58,6 @@ Dealing with browser plugins, extensions or entirely new and unfamiliar crypto-e
 )
 
 
-export default page-2
+export default SecondPage
+
 

@@ -65,6 +65,6 @@ const SecondPage = () => ( < Layout > < SEO title = "Page two" / > < h1 > Welcom
 			 </body> 
 			<Link to = "/" > Go back to the homepage < /Link> 
 			  
-			</Layout > )
+			</Layout > );
 
 		export default SecondPage© 2021 GitHub, Inc.Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About Loading complete

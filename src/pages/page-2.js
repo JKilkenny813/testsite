@@ -7,12 +7,11 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
-    <h1>Labber Secuirty Blog </h1>
-    <p>Welcome to the Labber Secuirty Blog   /p>
-  
-  <p>
- 
-   4/8/2021 J.Kilkenny
+    <h1>Welcome to the Labber Security Blog</h1>
+    <p>
+    
+    
+     4/8/2021 J.Kilkenny
   
   In this blog we are to going to attempt to answer a few questions about dApp use for decentralized or autonomous organizations.
   
@@ -54,12 +53,10 @@ Dealing with browser plugins, extensions or entirely new and unfamiliar crypto-e
     <a href="https://blog.wetrust.io/designing-user-account-systems-in-ethereum-apps-f824fe625412" title="Designing user account systems in Ethereum apps">Designing user account systems in Ethereum apps</a>
   
 
-  /p>
+    </p>
+    
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 
-
 export default SecondPage
-
-

@@ -8,8 +8,8 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Welcome to your new Gatsby site...on IPFS!</h1>
+    <SEO title="Labber Security Blog Home" />
+    <h1>Welcome to the new Labber Security Blog created using Gatsby ...on IPFS!</h1>
     <div
         style={{
           maxWidth: `300px`,

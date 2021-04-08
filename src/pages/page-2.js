@@ -6,14 +6,13 @@ import {
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const SecondPage = () => ( < Layout > < SEO title = "Page two" / > < h1 > Welcome to the Labber Security Blog < /h1> <p> <body>
+const SecondPage = () => ( < Layout > < SEO title = "Page two" / > < h1 > Welcome to the Labber Security Blog < /h1> <p> 
+			  <body>
 
-		<
-		p > J.Kilkenny
+		<p> J.Kilkenny
 
-		<
-		p > In this blog we are to going to attempt to answer a few questions about dApp use
-		for decentralized or autonomous organizations. < /p>
+		<p> In this blog we are to going to attempt to answer a few questions about dApp use
+		for decentralized or autonomous organizations. </p>
 
 		<
 		p > First off what is a dApp ? A dApp is a decentralized application. < /p>
@@ -51,9 +50,9 @@ const SecondPage = () => ( < Layout > < SEO title = "Page two" / > < h1 > Welcom
 			for the vast majority of users, especially those using a mobile device as the vast majority of users utilize mobile devices to access the internet.With that said it is possible to manage a dApp
 			for a team of users but deciding on the way to approach the system account depends on the mission and goal of the users and the application. < /p>
 
-			<
-			/p> <
-			/body> <
-			Link to = "/" > Go back to the homepage < /Link>   </Layout > )
+			 </body> 
+			<Link to = "/" > Go back to the homepage < /Link> 
+			  
+			</Layout > )
 
 		export default SecondPage© 2021 GitHub, Inc.Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About Loading complete

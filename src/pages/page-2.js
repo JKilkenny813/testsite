@@ -49,4 +49,4 @@ Here are some of the advantages of utilizing a dApp; Simple to develop, More con
   </Layout>
 )
 
-export default SecondPage
+
